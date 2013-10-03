@@ -1,3 +1,7 @@
 A sample showing , how to set background color of UIPickerView in iOS.
 
-![alt tag]  (https://raw.github.com/amitkumar3968/ColoredPicker/blob/master/Image1.png)
+
+
+
+
+![My  image](amitkumar3968.github.com/ColoredPicker/blob/maste/Image1.png)
