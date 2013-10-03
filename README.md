@@ -1,0 +1,1 @@
+A sample showing , how to set background color of UIPickerView in iOS.
